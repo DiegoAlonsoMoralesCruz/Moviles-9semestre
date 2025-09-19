@@ -1,4 +1,4 @@
-from prueba import suma
+from src.prueba import suma
 
 def test_suma():
     assert suma(2, 3) == 5
